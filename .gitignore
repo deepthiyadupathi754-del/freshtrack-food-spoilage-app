@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+freshtrack.db
+freshtrack.db-shm
+freshtrack.db-wal
