@@ -1,7 +1,8 @@
 # FreshTrack — Project Submission
 
-**Student name:** [Enter your name]  
-**Roll number:** [Enter your roll number]  
+**Student name:** Deepthi B
+
+**Roll number:** 25BTRAO014  
 **Subject:** Python Programming  
 **Sector:** Food Spoilage Prevention
 
